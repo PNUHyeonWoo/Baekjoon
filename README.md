@@ -12,5 +12,6 @@ str - 문자열
 set - 집합
 dfs - 깊이 우선 탐색  
 grp - 그래프  
-ps - 누적합  
+ps - 누적합
+grd - 그리드  
 etc - 기타  
